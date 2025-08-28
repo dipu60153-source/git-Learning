@@ -16,3 +16,5 @@ console.log(upi);
 const footer = "footer added in our website";
 console.log(footer);
 console.log("latest update");
+// i am fixing same bug
+console.log("Bug Fix");
